@@ -1,0 +1,5 @@
+===== BAO CAO THONG KE =====
+So luong sinh vien: 6
+Diem trung binh: 6.25
+So sinh vien dat: 4
+So sinh vien khong dat: 2

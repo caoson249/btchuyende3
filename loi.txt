@@ -1,0 +1,4 @@
+Danh sách lỗi:
+SV02,Tran Thi B,abc (không phải số)
+SV03,Le Van C,11.0 (ngoài 0-10)
+SV05,Hoang Van E,-1.0 (ngoài 0-10)
