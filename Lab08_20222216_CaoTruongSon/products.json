@@ -1,0 +1,30 @@
+[
+  {
+    "MaSP": "SP001",
+    "TenSP": "Ban phim co day",
+    "NhomHang": "Phu kien",
+    "Gia": 250000,
+    "DonViTinh": "Cai"
+  },
+  {
+    "MaSP": "SP002",
+    "TenSP": "Chuot khong day",
+    "NhomHang": "Phu kien",
+    "Gia": 350000,
+    "DonViTinh": "Cai"
+  },
+  {
+    "MaSP": "SP003",
+    "TenSP": "Man hinh 24 inch",
+    "NhomHang": "Thiet bi",
+    "Gia": 3200000,
+    "DonViTinh": "Cai"
+  },
+  {
+    "MaSP": "SP004",
+    "TenSP": "Laptop van phong",
+    "NhomHang": "May tinh",
+    "Gia": 15000000,
+    "DonViTinh": "May"
+  }
+]

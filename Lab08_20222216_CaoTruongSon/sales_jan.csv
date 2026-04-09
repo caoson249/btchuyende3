@@ -1,0 +1,4 @@
+OrderID,Date,Customer,Product,Quantity,UnitPrice,Revenue
+JAN001,2026-01-05,Nguyen Van A,Ban phim,2,250000,500000
+JAN002,2026-01-10,Tran Thi B,Chuot,1,150000,150000
+JAN003,2026-01-15,Le Van C,USB,3,120000,360000
