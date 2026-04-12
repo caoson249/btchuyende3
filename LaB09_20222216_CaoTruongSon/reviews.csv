@@ -1,0 +1,8 @@
+ReviewID,UserName,Rating,Comment,ProductCategory,ReviewDate
+R01,alice,5, Sản phẩm rất tốt!!! ,dien tu,2024-01-01
+R02,bob,6,Okkkkkkkk,Thoi Trang,2024-01-02
+R03,charlie,4,   Bình thường   ,dien tu,2024-01-03
+R04,david,0,Quá tệeeeeee,gia dung,2024-01-04
+R05,emma,3,Ổn áp!!!!,Gia Dung,2024-01-05
+R05,emma,3,Ổn áp!!!!,Gia Dung,2024-01-05
+R06,frank,2,Không tốt lắm.....,thoi trang,2024-01-06

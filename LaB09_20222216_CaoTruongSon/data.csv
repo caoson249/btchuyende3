@@ -1,0 +1,8 @@
+OrderID,CustomerName,Gender,OrderDate,Product,Category,Quantity,Price,City
+DH01,  Nguyen Van A ,nam,2024-01-05,iPhone 13,Dien Tu,2,$1000,Ha Noi
+DH02,Tran Thi B,Nữ,2024/01/10,Laptop Dell,may tinh,1,1500 USD,Ho Chi Minh
+DH03,Le Van C,,15-01-2024,AirPods,PHU KIEN,3,200,Da Nang
+DH03,Le Van C,,15-01-2024,AirPods,PHU KIEN,3,200,Da Nang
+DH04,Pham Thi D,female,2024-02-20,MacBook,Dien Tu,1,$2000,Ha Noi
+DH05,Hoang Van E,MALE,2024-02-25,Chuột Logitech,phu kien,-5,25$,Can Tho
+DH06,Do Thi F,nữ,,Bàn phím cơ,May Tinh,2,100,Hai Phong
